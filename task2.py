@@ -25,7 +25,7 @@ list_in = [1, 1, 2, 3, 4, 5, 5]
 # print(list_in)
 
 # Вариант решения с помощью Comprehansion
-out_lst2 = [i for i in list_in if list_in.count(i) == 1]
+# out_lst2 = [i for i in list_in if list_in.count(i) == 1]
 
 
 # Вариант решения с помощью filter
